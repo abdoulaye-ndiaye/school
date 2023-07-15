@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "application",
+      "type": "com.uadb.school.config.ApplicationProperties",
+      "sourceType": "com.uadb.school.config.ApplicationProperties"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
